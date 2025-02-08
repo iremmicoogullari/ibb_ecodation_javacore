@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="155fd2c2-5f75-4b25-9998-809e54652512" name="Changes" comment="class, pvm, sout">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_02_JavaPrimitiveTypes.java" afterDir="false" />
+    <list default="true" id="155fd2c2-5f75-4b25-9998-809e54652512" name="Changes" comment="primitive types">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_03_JavaPrimitiveTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_02_JavaPrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_02_Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,8 @@
     "Application.Main.executor": "Run",
     "Application._01_JavaTypes.executor": "Run",
     "Application._02_JavaDataTypes.executor": "Run",
+    "Application._02_JavaPrimitiveTypes.executor": "Run",
+    "Application._02_Variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
@@ -62,7 +63,12 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._02_JavaPrimitiveTypes">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iremmicoogullari._1_part_javatypes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._02_Variables">
     <configuration name="_01_JavaPsvm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._1_part_javatypes._01_JavaPsvm" />
       <module name="ibb_ecodation_javacore" />
@@ -89,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_JavaPrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._1_part_javatypes._02_JavaPrimitiveTypes" />
+    <configuration name="_02_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._1_part_javatypes._02_Variables" />
       <module name="ibb_ecodation_javacore" />
       <extension name="coverage">
         <pattern>
@@ -104,7 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._02_JavaPrimitiveTypes" />
+        <item itemvalue="Application._02_Variables" />
         <item itemvalue="Application._02_JavaDataTypes" />
         <item itemvalue="Application._01_JavaPsvm" />
       </list>
@@ -151,13 +157,30 @@
       <option name="project" value="LOCAL" />
       <updated>1739029247290</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="class, pvm, sout">
+      <option name="closed" value="true" />
+      <created>1739030445272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739030445272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="primitive types">
+      <option name="closed" value="true" />
+      <created>1739030516942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739030516942</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java core init" />
     <MESSAGE value="class, pvm, sout" />
-    <option name="LAST_COMMIT_MESSAGE" value="class, pvm, sout" />
+    <MESSAGE value="primitive types" />
+    <option name="LAST_COMMIT_MESSAGE" value="primitive types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
