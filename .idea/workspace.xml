@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="155fd2c2-5f75-4b25-9998-809e54652512" name="Changes" comment="java core init">
-      <change afterPath="$PROJECT_DIR$/ShortCut.txt" afterDir="false" />
+    <list default="true" id="155fd2c2-5f75-4b25-9998-809e54652512" name="Changes" comment="class, pvm, sout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShortCut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShortCut.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_01_JavaTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_01_JavaTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,12 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739025662997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class, pvm, sout">
+      <option name="closed" value="true" />
+      <created>1739028577638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739028577638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java core init" />
-    <option name="LAST_COMMIT_MESSAGE" value="java core init" />
+    <MESSAGE value="class, pvm, sout" />
+    <option name="LAST_COMMIT_MESSAGE" value="class, pvm, sout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
