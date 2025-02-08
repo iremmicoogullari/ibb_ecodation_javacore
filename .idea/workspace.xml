@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="155fd2c2-5f75-4b25-9998-809e54652512" name="Changes" comment="class, pvm, sout">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_02_JavaPrimitiveTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShortCut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShortCut.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_01_JavaTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/iremmicoogullari/_1_part_javatypes/_01_JavaTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application._01_JavaTypes.executor": "Run",
+    "Application._02_JavaDataTypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -60,9 +62,35 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="_01_JavaTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._1_part_javatypes._01_JavaTypes" />
+  <component name="RunManager" selected="Application._02_JavaPrimitiveTypes">
+    <configuration name="_01_JavaPsvm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._1_part_javatypes._01_JavaPsvm" />
+      <module name="ibb_ecodation_javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iremmicoogullari._1_part_javatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_JavaDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._02_JavaDataTypes" />
+      <module name="ibb_ecodation_javacore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iremmicoogullari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_JavaPrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iremmicoogullari._1_part_javatypes._02_JavaPrimitiveTypes" />
       <module name="ibb_ecodation_javacore" />
       <extension name="coverage">
         <pattern>
@@ -76,7 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._01_JavaTypes" />
+        <item itemvalue="Application._02_JavaPrimitiveTypes" />
+        <item itemvalue="Application._02_JavaDataTypes" />
+        <item itemvalue="Application._01_JavaPsvm" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739028577638</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class, pvm, sout">
+      <option name="closed" value="true" />
+      <created>1739029247290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739029247290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
