@@ -18,7 +18,7 @@ public class _02_JavaPrimitiveTypes {
         long l1 = 9223372036854775807L;
         System.out.println("long: " +l1);
 
-        //Virgüllü Sayılar (floating point) (2): double, float
+        //Virgüllü Sayılar (floating point) (2): double and float
 
         float f2 = 3.14f;
         System.out.println("float: " + f2);
